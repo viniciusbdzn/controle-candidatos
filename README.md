@@ -1,2 +1,2 @@
 # controle-candidatos
-Projeto de controle de candidatos desenvolvido através do Bootcamp Santander 2023 - backend Java na DIO
+Projeto de controle de seleção de candidatos e desafio contador desenvolvido através do Bootcamp Santander 2023 - backend Java na DIO
